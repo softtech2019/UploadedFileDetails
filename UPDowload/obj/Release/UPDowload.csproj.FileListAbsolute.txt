@@ -74,3 +74,7 @@ C:\Users\rudph\Documents\Visual Studio 2019\UPDowload\UPDowload\bin\Microsoft.Co
 C:\Users\rudph\Documents\Visual Studio 2019\UPDowload\UPDowload\obj\Release\UPDowload.csproj.CopyComplete
 C:\Users\rudph\Documents\Visual Studio 2019\UPDowload\UPDowload\obj\Release\UPDowload.dll
 C:\Users\rudph\Documents\Visual Studio 2019\UPDowload\UPDowload\obj\Release\UPDowload.pdb
+C:\Users\rudph\Documents\Visual Studio 2019\UPDowload\UPDowload\bin\EntityFramework.dll
+C:\Users\rudph\Documents\Visual Studio 2019\UPDowload\UPDowload\bin\EntityFramework.SqlServer.dll
+C:\Users\rudph\Documents\Visual Studio 2019\UPDowload\UPDowload\bin\EntityFramework.xml
+C:\Users\rudph\Documents\Visual Studio 2019\UPDowload\UPDowload\bin\EntityFramework.SqlServer.xml
